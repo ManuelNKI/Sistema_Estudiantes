@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ramir\\Desktop\\Universidad\\Aplicaciones Distribuidas\\Proyectos\\Sistema_Estudiantes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21290FA2-DEC0-45C7-BABA-4C2F16163D8A}|Infraestructure\\Infraestructure.csproj|c:\\users\\ramir\\desktop\\universidad\\aplicaciones distribuidas\\proyectos\\sistema_estudiantes\\infraestructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21290FA2-DEC0-45C7-BABA-4C2F16163D8A}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C453CEB7-28EC-427C-961C-750BC99B7330}|Domain\\Domain.csproj|c:\\users\\ramir\\desktop\\universidad\\aplicaciones distribuidas\\proyectos\\sistema_estudiantes\\domain\\entities\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C453CEB7-28EC-427C-961C-750BC99B7330}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C453CEB7-28EC-427C-961C-750BC99B7330}|Domain\\Domain.csproj|c:\\users\\ramir\\desktop\\universidad\\aplicaciones distribuidas\\proyectos\\sistema_estudiantes\\domain\\interfaces\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C453CEB7-28EC-427C-961C-750BC99B7330}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9470DCFA-AA03-4D1C-ADBA-3483DBD6477F}|Api_Sistema_Estudiantes\\Api_Sistema_Estudiantes.csproj|c:\\users\\ramir\\desktop\\universidad\\aplicaciones distribuidas\\proyectos\\sistema_estudiantes\\api_sistema_estudiantes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9470DCFA-AA03-4D1C-ADBA-3483DBD6477F}|Api_Sistema_Estudiantes\\Api_Sistema_Estudiantes.csproj|solutionrelative:api_sistema_estudiantes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9470DCFA-AA03-4D1C-ADBA-3483DBD6477F}|Api_Sistema_Estudiantes\\Api_Sistema_Estudiantes.csproj|c:\\users\\ramir\\desktop\\universidad\\aplicaciones distribuidas\\proyectos\\sistema_estudiantes\\api_sistema_estudiantes\\controllers\\estudiantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9470DCFA-AA03-4D1C-ADBA-3483DBD6477F}|Api_Sistema_Estudiantes\\Api_Sistema_Estudiantes.csproj|solutionrelative:api_sistema_estudiantes\\controllers\\estudiantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9470DCFA-AA03-4D1C-ADBA-3483DBD6477F}|Api_Sistema_Estudiantes\\Api_Sistema_Estudiantes.csproj|c:\\users\\ramir\\desktop\\universidad\\aplicaciones distribuidas\\proyectos\\sistema_estudiantes\\api_sistema_estudiantes\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9470DCFA-AA03-4D1C-ADBA-3483DBD6477F}|Api_Sistema_Estudiantes\\Api_Sistema_Estudiantes.csproj|solutionrelative:api_sistema_estudiantes\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 263,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\Desktop\\Universidad\\Aplicaciones Distribuidas\\Proyectos\\Sistema_Estudiantes\\Infraestructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ramir\\Desktop\\Universidad\\Aplicaciones Distribuidas\\Proyectos\\Sistema_Estudiantes\\Infraestructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Infraestructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBQAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T01:50:18.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\Desktop\\Universidad\\Aplicaciones Distribuidas\\Proyectos\\Sistema_Estudiantes\\Domain\\Interfaces\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IClienteRepository.cs",
+              "ToolTip": "C:\\Users\\ramir\\Desktop\\Universidad\\Aplicaciones Distribuidas\\Proyectos\\Sistema_Estudiantes\\Domain\\Interfaces\\IClienteRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T01:41:04.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\Desktop\\Universidad\\Aplicaciones Distribuidas\\Proyectos\\Sistema_Estudiantes\\Domain\\Entities\\Estudiante.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\ramir\\Desktop\\Universidad\\Aplicaciones Distribuidas\\Proyectos\\Sistema_Estudiantes\\Domain\\Entities\\Estudiante.cs",
+              "RelativeToolTip": "Domain\\Entities\\Estudiante.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T01:33:47.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EstudianteController.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\Desktop\\Universidad\\Aplicaciones Distribuidas\\Proyectos\\Sistema_Estudiantes\\Api_Sistema_Estudiantes\\Controllers\\EstudianteController.cs",
+              "RelativeDocumentMoniker": "Api_Sistema_Estudiantes\\Controllers\\EstudianteController.cs",
+              "ToolTip": "C:\\Users\\ramir\\Desktop\\Universidad\\Aplicaciones Distribuidas\\Proyectos\\Sistema_Estudiantes\\Api_Sistema_Estudiantes\\Controllers\\EstudianteController.cs",
+              "RelativeToolTip": "Api_Sistema_Estudiantes\\Controllers\\EstudianteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T01:27:01.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ramir\\Desktop\\Universidad\\Aplicaciones Distribuidas\\Proyectos\\Sistema_Estudiantes\\Api_Sistema_Estudiantes\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Api_Sistema_Estudiantes\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ramir\\Desktop\\Universidad\\Aplicaciones Distribuidas\\Proyectos\\Sistema_Estudiantes\\Api_Sistema_Estudiantes\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Api_Sistema_Estudiantes\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-12T01:22:20.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ramir\\Desktop\\Universidad\\Aplicaciones Distribuidas\\Proyectos\\Sistema_Estudiantes\\Api_Sistema_Estudiantes\\appsettings.json",
+              "RelativeDocumentMoniker": "Api_Sistema_Estudiantes\\appsettings.json",
+              "ToolTip": "C:\\Users\\ramir\\Desktop\\Universidad\\Aplicaciones Distribuidas\\Proyectos\\Sistema_Estudiantes\\Api_Sistema_Estudiantes\\appsettings.json",
+              "RelativeToolTip": "Api_Sistema_Estudiantes\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-12T01:20:05.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
