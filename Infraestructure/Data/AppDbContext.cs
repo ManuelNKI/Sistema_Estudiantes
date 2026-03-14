@@ -13,14 +13,14 @@ namespace Infraestructure.Data
             modelBuilder.Entity<Estudiante>(e =>
             {
                 e.ToTable("Estudiantes");
-                e.HasKey(x => x.Id);
-                e.Property(x => x.Cedula).HasMaxLength(10).IsRequired();
-                e.Property(x => x.PrimerNombre).HasMaxLength(100).IsRequired();
-                e.Property(x => x.SegundoNombre).HasMaxLength(100);
-                e.Property(x => x.PrimerApellido).HasMaxLength(100).IsRequired();
-                e.Property(x => x.SegundoApellido).HasMaxLength(100).IsRequired();
-                e.Property(x => x.Ciudad).HasMaxLength(100).IsRequired();
-                e.Property(x => x.FechaNacimiento).IsRequired();
+                e.HasKey(x => x.id);
+                e.Property(x => x.cedula).HasMaxLength(10).IsRequired();
+                e.Property(x => x.primer_nombre).HasMaxLength(100).IsRequired();
+                e.Property(x => x.segundo_nombre).HasMaxLength(100);
+                e.Property(x => x.primer_apellido).HasMaxLength(100).IsRequired();
+                e.Property(x => x.segundo_apellido).HasMaxLength(100).IsRequired();
+                e.Property(x => x.ciudad).HasMaxLength(100).IsRequired();
+                e.Property(x => x.fecha_nacimiento).IsRequired();
             });
         }
     }

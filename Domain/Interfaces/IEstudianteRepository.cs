@@ -6,9 +6,8 @@ namespace Domain.Interfaces
     {
         Task<List<Estudiante>> GetAllAsync();
         Task<Estudiante?> GetByIdAsync(int id);
-        Task<Estudiante?> GetByCedulaAsyznc(string cedula);
         Task<Estudiante> AddAsync(Estudiante estudiante);
-        Task<Estudiante> UpdateAsync(Estudiante estudiante);
-        Task<Estudiante> DeleteAsync(int id);
+        Task UpdateAsync(Estudiante estudiante);
+        Task DeleteAsync(int id);
     }
 }
